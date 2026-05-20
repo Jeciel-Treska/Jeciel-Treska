@@ -1,10 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d7a0d4f-9d31-4f6b-8d77-9f0d5c6d9b8f.gif" />
 
 <br/>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+beautiful+interfaces;Focused+on+UI%2FUX+and+Performance;Always+improving+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Crafting+modern+interfaces;UI%2FUX+focused+developer;Clean+code+%2B+beautiful+designs+🚀" />
 
 </div>
 
@@ -14,17 +15,17 @@
 
 # 👨‍💻 Jeciel Treska
 
-### Front-End Developer • Modern UI • React Ecosystem
+### Front-End Developer • React Ecosystem • UI/UX Focus
 
 </div>
 
 ---
 
-# ⚡ Main Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,nodejs,firebase,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,nodejs,git,github,vscode,figma&theme=dark" />
 
 </div>
 
@@ -33,31 +34,33 @@
 # 🧠 About Me
 
 ```tsx
-const jeciel = {
+const developer = {
+  name: "Jeciel Treska",
+
   role: "Front-End Developer",
 
-  mainStack: [
+  focus: [
     "React",
     "Next.js",
     "TypeScript",
     "TailwindCSS",
+    "Modern UI",
   ],
 
   interests: [
-    "Modern Interfaces",
-    "Web Performance",
-    "Responsive Design",
     "Animations",
-    "User Experience",
+    "Responsive Design",
+    "Performance",
+    "Clean Architecture",
   ],
 
-  studying: [
+  currentlyLearning: [
     "Node.js",
-    "Front-End Architecture",
-    "Advanced UI Patterns",
+    "Advanced Front-End",
+    "Scalable Applications",
   ],
 
-  currentStatus: "Creating cool projects 🚀",
+  status: "Building cool experiences 🚀",
 };
 ```
 
@@ -67,15 +70,15 @@ const jeciel = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeciel-Treska&show_icons=true&theme=transparent&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeciel-Treska&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeciel-Treska&layout=compact&theme=transparent&title_color=38BDF8&text_color=ffffff&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeciel-Treska&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Graph
+# 🔥 Contribution Activity
 
 <div align="center">
 
@@ -95,23 +98,7 @@ const jeciel = {
 
 ---
 
-# 🌌 Currently Learning
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![NextJS](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# 🌐 Contact
 
 <div align="center">
 
