@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/Jeciel-Treska">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;React+%7C+TypeScript+%7C+Next.js;Sempre+aprendendo+algo+novo+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;TypeScript+%7C+React+%7C+Nest.js+%7C+Next.js;Sempre+aprendendo+algo+novo+🚀" />
   </a>
 </p>
 
