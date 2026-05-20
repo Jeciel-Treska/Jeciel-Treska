@@ -1,11 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
 
 <br/>
-<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+experiences;UI%2FUX+focused;Always+learning+new+technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+beautiful+interfaces;Focused+on+UI%2FUX+and+Performance;Always+improving+🚀" />
 
 </div>
 
@@ -15,13 +14,13 @@
 
 # 👨‍💻 Jeciel Treska
 
-### Front-End Developer • React Specialist • UI/UX Focused
+### Front-End Developer • Modern UI • React Ecosystem
 
 </div>
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Main Stack
 
 <div align="center">
 
@@ -31,42 +30,40 @@
 
 ---
 
-# 🧠 Sobre mim
+# 🧠 About Me
 
 ```tsx
-const developer = {
-  name: "Jeciel Treska",
-
+const jeciel = {
   role: "Front-End Developer",
 
-  stack: [
+  mainStack: [
     "React",
     "Next.js",
     "TypeScript",
     "TailwindCSS",
   ],
 
-  passions: [
-    "Modern UI",
+  interests: [
+    "Modern Interfaces",
     "Web Performance",
     "Responsive Design",
     "Animations",
     "User Experience",
   ],
 
-  currentlyLearning: [
+  studying: [
     "Node.js",
-    "Architecture",
-    "Advanced Front-End",
+    "Front-End Architecture",
+    "Advanced UI Patterns",
   ],
 
-  status: "Turning ideas into interfaces 🚀",
+  currentStatus: "Creating cool projects 🚀",
 };
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -78,7 +75,7 @@ const developer = {
 
 ---
 
-# 🔥 Contribution Activity
+# 🔥 Contribution Graph
 
 <div align="center">
 
@@ -98,7 +95,7 @@ const developer = {
 
 ---
 
-# 🌌 Current Focus
+# 🌌 Currently Learning
 
 <div align="center">
 
@@ -114,7 +111,7 @@ const developer = {
 
 ---
 
-# 🌐 Connect with me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -129,13 +126,5 @@ const developer = {
 <a href="mailto:seuemail@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
