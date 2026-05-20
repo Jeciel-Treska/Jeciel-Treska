@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Front-End Developer com foco na criação de aplicações web modernas, escaláveis ​​e de alto desempenho.
+### Dev Front-End com foco na criação de aplicações web modernas, escaláveis ​​e de alto desempenho.
 
 </div>
 
