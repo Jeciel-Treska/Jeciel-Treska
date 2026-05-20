@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Jeciel%20Treska&fontSize=55&color=0:0f172a,50:111827,100:38bdf8&fontColor=ffffff&stroke=38bdf8&animation=fadeIn&fontAlignY=42&desc=Front-End%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+and+performant+interfaces" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=React+%7C+Nest.js+%7C+Next.js+%7C+TypeScript" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Front-End Developer focused on creating modern, scalable and performant web applications.
+### Front-End Developer com foco na criação de aplicações web modernas, escaláveis ​​e de alto desempenho.
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,nodejs,html,css,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nestjs,nextjs,tailwind,nodejs,git,github&theme=dark" />
 
 </div>
 
@@ -33,10 +33,12 @@ const jeciel = {
   role: "Front-End Developer",
 
   mainStack: [
-    "React",
-    "Next.js",
+    "JavaScript",
     "TypeScript",
     "TailwindCSS",
+    "React",
+    "Nest.js",
+    "Next.js",
   ],
 
   focus: [
@@ -54,20 +56,6 @@ const jeciel = {
 };
 ```
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jeciel-Treska&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeciel-Treska&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8"/>
-
-</div>
-
----
-
 # 🔥 Contribution Activity
 
 <div align="center">
@@ -82,13 +70,16 @@ const jeciel = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
-
 <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 
 <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+
+<img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Nest.js-0f172a?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+
+<img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
+
 
 </div>
 
@@ -106,7 +97,7 @@ const jeciel = {
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:jecieltreska@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
