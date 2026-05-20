@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nestjs,nextjs,tailwind,nodejs,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nestjs,nextjs,nodejs,git,github&theme=dark" />
 
 </div>
 
@@ -30,9 +30,11 @@
 
 ```ts
 const jeciel = {
-  role: "Front-End Developer",
+  role: "Dev Front-End",
 
   mainStack: [
+    "HTML",
+    "CSS",
     "JavaScript",
     "TypeScript",
     "TailwindCSS",
