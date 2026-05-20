@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Jeciel%20Treska&fontSize=48&fontColor=38BDF8&animation=fadeIn&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Jeciel%20Treska&fontSize=55&color=0:0f172a,50:111827,100:38bdf8&fontColor=ffffff&stroke=38bdf8&animation=fadeIn&fontAlignY=42&desc=Front-End%20Developer%20•%20React%20•%20Next.js&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+and+performant+interfaces" />
 
