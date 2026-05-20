@@ -38,16 +38,11 @@
   src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" 
 />
 
-## Back-End & Banco
-
-<img 
-  src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,firebase" 
-/>
 
 ## Ferramentas
 
 <img 
-  src="https://skillicons.dev/icons?i=git,github,vscode,figma" 
+  src="https://skillicons.dev/icons?i=git,github,vscode" 
 />
 
 </div>
