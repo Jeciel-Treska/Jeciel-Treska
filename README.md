@@ -1,20 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=260&color=0:020617,50:0f172a,100:38bdf8&text=Jeciel%20Treska&fontSize=58&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=Front-End%20Developer%20•%20React%20Ecosystem&descAlignY=63"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Jeciel%20Treska&fontSize=48&fontColor=38BDF8&animation=fadeIn&fontAlignY=45"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+beautiful+web+interfaces;React+%7C+Next.js+%7C+TypeScript;Focused+on+modern+UI%2FUX;Performance+and+clean+architecture;Always+creating+something+new+🚀" />
-
-<br/>
-<br/>
-
-<img width="900" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Jeciel-Treska&label=Profile%20Views&color=38bdf8&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+and+performant+interfaces" />
 
 </div>
 
@@ -22,10 +10,17 @@
 
 <div align="center">
 
-# ⚡ Front-End Developer
+### Front-End Developer focused on creating modern, scalable and performant web applications.
 
-Creating immersive digital experiences with  
-modern technologies, responsive layouts and clean UI.
+</div>
+
+<br/>
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,nodejs,html,css,git,github,vscode,figma&theme=dark" />
 
 </div>
 
@@ -33,16 +28,8 @@ modern technologies, responsive layouts and clean UI.
 
 # 🧠 About Me
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-```tsx
-const developer = {
-  name: "Jeciel Treska",
-
+```ts
+const jeciel = {
   role: "Front-End Developer",
 
   mainStack: [
@@ -52,36 +39,20 @@ const developer = {
     "TailwindCSS",
   ],
 
-  currentFocus: [
+  focus: [
     "UI/UX",
     "Performance",
-    "Animations",
-    "Scalable Front-End",
+    "Responsive Design",
+    "Clean Architecture",
+  ],
+
+  currentlyLearning: [
+    "Node.js",
+    "Front-End Architecture",
+    "Scalable Applications",
   ],
 };
 ```
-
-</td>
-
-<td width="50%">
-
-<img width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,nodejs,git,github,vscode,figma&theme=dark" />
-
-</div>
 
 ---
 
@@ -89,9 +60,9 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeciel-Treska&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jeciel-Treska&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeciel-Treska&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeciel-Treska&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8"/>
 
 </div>
 
@@ -101,75 +72,42 @@ const developer = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jeciel-Treska&bg_color=020617&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jeciel-Treska&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🚀 Current Focus
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
+
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
 
 </div>
 
 ---
 
-# 🚀 Development Workflow
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,react,nextjs,ts,tailwind,git,github,vercel&theme=dark" />
-
-</div>
-
----
-
-# 🌌 Current Technologies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
-
-<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-020617?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# 🌐 Contact
 
 <div align="center">
 
 <a href="https://github.com/Jeciel-Treska">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:seuemail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br/>
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:0f172a,100:38bdf8"/>
 
 </div>
